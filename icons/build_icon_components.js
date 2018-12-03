@@ -89,7 +89,7 @@ async function convertSVGToComponent() {
     } ${iconFileHelpers.ICON_SVG_PATH}`
   )
   if (result.stderr) {
-    console.log(result.stderr)
+    // console.log(result.stderr)
     process.exit(1)
   }
 }
