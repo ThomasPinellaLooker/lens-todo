@@ -42,8 +42,8 @@ export class TodoElement extends React.Component<TodoElementProps, TodoElementSt
     }
   }
 
-  public checkboxChanged = (event: any) => {
-    this.props.updateTodo(this.props.todo.id, event.target.checked,  event.target.checked  ? new Date() : undefined)
+  public checkboxChanged = (event: React.ChangeEvent<HTMLInputElement>) => {
+    this.props.updateTodo(this.props.todo.id, event.target.checked, event.target.checked ? new Date() : undefined)
   }
 
   public removeTodo = () => {
@@ -65,7 +65,7 @@ export class TodoElement extends React.Component<TodoElementProps, TodoElementSt
 
   public render() {
 
-    const eventProps = {onMouseEnter: this.mouseEnter, onMouseLeave:this.mouseLeave}
+    const eventProps = {onMouseEnter: this.mouseEnter, onMouseLeave: this.mouseLeave}
 
     return (
         <ListItem {...eventProps}>

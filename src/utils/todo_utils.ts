@@ -29,7 +29,6 @@ let idCounter = 0
 export const todoFromStr = (what: string) =>
   ({ what, completed: false, id: idCounter++})
 
-
 // Callback types
 export type AddTodoCallback = (todo: string) => void
 export type RemoveTodoCallback = (id: number) => void

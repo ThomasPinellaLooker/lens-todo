@@ -32,7 +32,7 @@ export class AddTodo extends React.Component<AddTodoProps, AddTodoState> {
 
   // I used a form in my component so clicking 'Enter' when typing would call my add action.
   // Notice I did have to prevent default
-  public submit = (event: any) => {
+  public submit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     const trimmedInput = this.state.input.trim()
 
@@ -47,7 +47,7 @@ export class AddTodo extends React.Component<AddTodoProps, AddTodoState> {
     })
   }
 
-  public onChange = (event: any) => {
+  public onChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     this.setState({
       input: event.target.value
     })
