@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Default AddTodo 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <div
+    className="sc-EHOje empeAK sc-bdVaJa jkGTWO"
+  >
+    <div
+      className="todo-input-container sc-bdVaJa eWGIUr"
+    >
+      <div
+        className="sc-gzVnrw euKcLj"
+      >
+        <label
+          className="sc-htoDjs bUgUqE"
+          htmlFor={undefined}
+        />
+        <div
+          className="sc-EHOje empeAK sc-bdVaJa bZoazI"
+        >
+          <div
+            className="sc-bZQynM dqpfBg sc-bdVaJa eWGIUr"
+          >
+            <input
+              className="sc-gZMcBi eLaHKN"
+              onChange={[Function]}
+              placeholder="Add a todo..."
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      className="sc-bwzfXH hzkIez sc-bdVaJa cIzdnm"
+      disabled={true}
+    >
+      Add it
+    </button>
+  </div>
+</form>
+`;
