@@ -14,9 +14,9 @@ import {
 } from 'looker-lens'
 
 // User defined components.
-import { AddTodo } from '../components/AddTodo'
 import { Divider } from '../components/Divider'
-import { TodoList } from '../components/TodoList'
+import { AddTodo } from './AddTodo/AddTodo'
+import { TodoList } from './TodoList/TodoList'
 
 // Some useful utilities.
 import

@@ -1,0 +1,323 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form with one child 1`] = `
+<div
+  className="sc-EHOje empeAK sc-bdVaJa ladIop"
+>
+  <div
+    className="sc-bZQynM dqpfBg sc-bdVaJa eWGIUr"
+  >
+    <div
+      className="todo-card sc-htpNat kKxShc"
+    >
+      <div
+        className="sc-bxivhb hnrkfU"
+      >
+        <div
+          className="sc-EHOje empeAK sc-bdVaJa eXElVZ"
+        >
+          <h3
+            className="sc-gqjmRU hHQcWf"
+          >
+            Get stuff done with Lens
+          </h3>
+        </div>
+        <form
+          onSubmit={[Function]}
+        >
+          <div
+            className="sc-EHOje empeAK sc-bdVaJa jkGTWO"
+          >
+            <div
+              className="todo-input-container sc-bdVaJa eWGIUr"
+            >
+              <div
+                className="sc-gzVnrw euKcLj"
+              >
+                <label
+                  className="sc-htoDjs bUgUqE"
+                  htmlFor={undefined}
+                />
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa bZoazI"
+                >
+                  <div
+                    className="sc-bZQynM dqpfBg sc-bdVaJa eWGIUr"
+                  >
+                    <input
+                      className="sc-gZMcBi eLaHKN"
+                      onChange={[Function]}
+                      placeholder="Add a todo..."
+                      type="text"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <button
+              className="sc-bwzfXH hzkIez sc-bdVaJa cIzdnm"
+              disabled={true}
+            >
+              Add it
+            </button>
+          </div>
+        </form>
+        <div
+          className="sc-bdVaJa jZyCgK"
+        >
+          <ul
+            className="sc-jTzLTM hUcpeU sc-bdVaJa fIZjAn"
+          >
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    Setup skeleton project
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    Get your bearings and have look around
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    List todos
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    Create new todos
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    Complete todos
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    Filter todos
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    State management
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              className="sc-bdVaJa dmxNGQ"
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+            >
+              <div
+                className="sc-EHOje empeAK sc-bdVaJa coSXsr"
+              >
+                <div
+                  className="sc-EHOje empeAK sc-bdVaJa iFzqLF"
+                >
+                  <div
+                    className="sc-bdVaJa hAeBdD"
+                  >
+                    <input
+                      checked={false}
+                      onChange={[Function]}
+                      type="checkbox"
+                    />
+                  </div>
+                  <div
+                    className="active sc-kGXeez egbVtN"
+                    size="3"
+                  >
+                    💰Profit
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <hr />
+        <div
+          className="sc-EHOje empeAK sc-bdVaJa eXElVZ"
+        >
+          <button
+            className="sc-bwzfXH ekBYDi sc-bdVaJa cIzdnm"
+            disabled={true}
+            onClick={[Function]}
+          >
+            Show
+             completed items
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

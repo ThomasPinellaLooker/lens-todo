@@ -6,7 +6,7 @@ import {
   RemoveTodoCallback,
   Todo,
   UpdateTodoCallback,
-} from '../utils/todo_utils'
+} from '../../utils/todo_utils'
 
 // Lens components
 import {

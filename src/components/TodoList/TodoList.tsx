@@ -1,13 +1,13 @@
 import * as React from 'react'
 
-import { TodoElement } from './TodoElement'
+import { TodoElement } from '../TodoElement/TodoElement'
 
 import {
   RemoveTodoCallback,
   Todo,
   Todos,
   UpdateTodoCallback
-} from '../utils/todo_utils'
+} from '../../utils/todo_utils'
 
 import {
   Box,
