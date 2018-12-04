@@ -10,7 +10,7 @@ This is an example implementation of Lens in the form of a Todo application to g
 3. Toggle visibility of complete todos, and show the date of when each todo was completed.
 4. Permanently delete either active or complete todos.
 
-### Structure
+### Important Files
 
 ##### src/index.tsx
 
